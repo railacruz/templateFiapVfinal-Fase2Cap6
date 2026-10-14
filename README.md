@@ -18,9 +18,9 @@
 
 ## 👩‍🏫 Professores:
 ### Tutor(a) 
-- (Nome do tutor)
+-  Sabrina
 ### Coordenador(a)
-- (Nome do coordenador)
+- André Godoi
 
 
 ## 📜 Descrição
