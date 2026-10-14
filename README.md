@@ -8,7 +8,7 @@
 
 # Sistema de Gestão de Perdas na Colheita de Cana-de-Açúcar
 
-## (Nome do grupo)
+## Grupo - Fase 2 Cap 6 - Python e além
 
 ## 👨‍🎓 Integrantes: 
 - Gabriela Pacheco (RM575120) — Integrante 1: menu e estruturas de dados
@@ -159,7 +159,7 @@ O arquivo `scripts/schema_oracle.sql` traz o mesmo esquema, caso prefira criar a
 
 ## 🗃 Histórico de lançamentos
 
-* 1.0.0 - DD/MM/2026
+* 1.0.0 - 14/10/2026
     * Versão entregue: menu, cálculos e validações, arquivos TXT e JSON e persistência no Oracle.
 
 ## 📋 Licença
