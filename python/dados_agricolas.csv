@@ -1,4 +1,0 @@
-cultura,figura,dim1,dim2,dim3,area_m2,produto,dose_ml_m,ruas,comprimento_rua_m,total_insumo_l
-Cafe,Trapezio,120.0,90.0,60.0,6300.0,Fosfato,500.0,10,100.0,500.0
-Cana-de-acucar,Retangulo,250.0,100.0,0.0,25000.0,NPK,350.0,18,250.0,1575.0
-Cafe,Trapezio,100.0,80.0,50.0,4500.0,Fosfato,500.0,12,120.0,720.0
